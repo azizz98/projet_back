@@ -1,6 +1,10 @@
-# projet_back
+# BACKEND Customers with NodeJS deployed on NGINX server
 
-contributors:
+Contributors:
 Mohamed aziz hassine
-Anis Khalaf
+Anis Khalef
 Mahdi belgacem
+
+
+
+
