@@ -1,4 +1,4 @@
-# BACKEND Customers with NodeJS deployed on NGINX server
+# BACKEND Customers with NodeJS deployed on vps server
 
 
 
